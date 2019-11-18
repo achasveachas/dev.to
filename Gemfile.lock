@@ -195,7 +195,7 @@ GEM
       rake (< 13.0)
     cld (0.8.0)
       ffi
-    cloudinary (1.12.0)
+    cloudinary (1.13.0)
       aws_cf_signer
       rest-client
     coderay (1.1.2)
@@ -893,7 +893,7 @@ DEPENDENCIES
   carrierwave (~> 2.0)
   carrierwave-bombshelter (~> 0.2)
   cld (~> 0.8)
-  cloudinary (~> 1.12)
+  cloudinary (~> 1.13)
   counter_culture (~> 2.2)
   dalli (~> 2.7)
   delayed_job_active_record (~> 4.1)
